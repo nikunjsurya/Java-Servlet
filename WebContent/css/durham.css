@@ -1,0 +1,63 @@
+
+h1,
+h2,
+h3,
+b {
+    color           : black;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: Times New Roman;
+}
+
+h2 {
+    font-size: 20px;
+    text-align:center;
+}
+
+h3 {
+    font-size: 14px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+a.active {
+    color: blue;
+    font-family: Times New Roman;
+}
+
+a.visited{
+	color:purple;
+	font-family: Times New Roman;
+}
+
+#a1{
+	background-color:lightgoldenrodyellow;
+}
+
+#LoginText{
+	font-size: 20px;
+}
+
+#tableCenter {
+    width: 100%;
+    text-align:center;
+    display: in-line;
+}
+
+#pass{
+	width: 100;
+}
+
+
+body{
+	text-align:center;
+	font-family: Times New Roman;
+}
+
+
